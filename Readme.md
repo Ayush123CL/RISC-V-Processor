@@ -168,14 +168,8 @@ Tested on **Digilent ZedBoard** (Zynq xc7z020clg484-1). Should also work on Nexy
 ---
 
 ## References
-
-- [RISC-V ISA Specification](https://riscv.org/technical/specifications/)
 - Patterson & Hennessy — *Computer Organization and Design: RISC-V Edition*
-
 ---
 
 ## Authors
-
-**Group 5 — CS224 Computer Architecture Lab, IIT Guwahati**
-
-Arkadeb Manna · Mehul Raj · Ashutosh Kumar · Avanish Pandey · Aryan Gupta
+Ayush Moharana EEE DEpartment
